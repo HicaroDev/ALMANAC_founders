@@ -1,0 +1,14 @@
+{"ts":"2026-05-30T10:59:00Z","action":"T001","status":"done","files":["seed.sql"]}
+{"ts":"2026-05-30T10:59:00Z","action":"T002","status":"done","files":["seed.sql"]}
+{"ts":"2026-05-30T10:59:00Z","action":"T003","status":"done","files":["seed.sql"]}
+{"ts":"2026-05-30T10:59:00Z","action":"T006","status":"done","files":["src/lib/supabase.ts","src/lib/types.ts"]}
+{"ts":"2026-05-30T10:59:00Z","action":"T007","status":"done","files":["src/components/PinOverlay.tsx"]}
+{"ts":"2026-05-30T10:59:00Z","action":"T008","status":"done","files":["src/app/projeto/[id]/page.tsx","src/utils/clusterPins.ts"]}
+{"ts":"2026-05-30T10:59:00Z","action":"T009","status":"done","files":["src/utils/clusterPins.ts"]}
+{"ts":"2026-05-30T10:59:00Z","action":"T010","status":"done","files":["src/app/projeto/[id]/page.tsx"]}
+{"ts":"2026-05-30T10:59:00Z","action":"T011","status":"done","files":["src/app/projeto/[id]/page.tsx","src/components/header.tsx"]}
+{"ts":"2026-05-30T10:59:00Z","action":"T012","status":"done","files":["src/components/header.tsx"]}
+{"ts":"2026-05-30T10:59:00Z","action":"T013","status":"done","files":["src/app/projeto/[id]/page.tsx"]}
+{"ts":"2026-05-30T10:59:00Z","action":"T014","status":"done","files":["src/app/compartilhado/[id]/page.tsx"]}
+{"ts":"2026-05-30T10:59:00Z","action":"T015","status":"done","files":["src/app/projeto/[id]/page.tsx"]}
+{"ts":"2026-05-30T10:59:00Z","action":"T016","status":"done","files":["src/app/projeto/[id]/page.tsx"]}

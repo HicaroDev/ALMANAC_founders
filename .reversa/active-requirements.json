@@ -1,0 +1,10 @@
+{
+  "schema-version": 1,
+  "feature-dir": "_reversa_forward/001-feedback-ancorado-pins",
+  "feature-id": "001",
+  "short-name": "feedback-ancorado-pins",
+  "started-at": "2026-05-30T10:44:00Z",
+  "current-stage": "done",
+  "stages-completed": ["requirements", "clarify", "plan", "to-do", "coding"],
+  "paused-features": []
+}
