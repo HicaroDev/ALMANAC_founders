@@ -1,0 +1,38 @@
+{
+  "generated_at": "2026-05-30T08:37:00Z",
+  "project_root": "C:/HicaroDev/hackaton",
+  "languages": [
+    { "name": "Markdown", "extensions": [".md"], "file_count": 4 }
+  ],
+  "primary_language": "Markdown",
+  "frameworks": [],
+  "package_manager": null,
+  "entry_points": [],
+  "config_files": [
+    "AGENTS.md",
+    "CLAUDE.md",
+    "GEMINI.md"
+  ],
+  "docker": null,
+  "database_hints": [],
+  "test_framework": null,
+  "test_file_count": 0,
+  "total_files": 4,
+  "modules": [],
+  "organization_suggestion": {
+    "granularity": "feature",
+    "rationale": "Nenhum codigo de aplicacao encontrado. O projeto contem apenas documentacao sobre o desafio Hackathon (01.md) e arquivos de configuracao dos agentes. A sugestao e organizar as specs por features extraidas do documento de requisitos.",
+    "signals": [],
+    "features": [
+      "autenticacao-google",
+      "gerenciamento-projetos",
+      "upload-renderizacao-html",
+      "feedback-ancorado-pins",
+      "compartilhamento",
+      "conversas-threads",
+      "historico-versoes",
+      "presenca-ao-vivo",
+      "dashboard-status"
+    ]
+  }
+}
